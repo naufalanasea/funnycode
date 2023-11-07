@@ -15,3 +15,9 @@ int main() {
 
   return 0;
 }
+
+//Masukkan nama: omtamvan
+//omtamvan is good
+
+//Masukkan nama: bukanomtamvan
+//is not good
