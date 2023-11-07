@@ -12,6 +12,7 @@ func main() {
   fmt.Println("4. Bali")
   fmt.Println("5. Sulawesi")
   fmt.Println("6. Nusa Tenggara")
+  fmt.Println("7. Jawa")
   fmt.Scan(&pulau)
 
   // Kondisi
