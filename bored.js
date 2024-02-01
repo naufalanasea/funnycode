@@ -3,4 +3,4 @@ button.textContent = "Bosan";
 button.addEventListener("click", () => {
   alert("Lalu?!");
 });
-document.body.appendChild(button)
+document.body.appendChild(button);
