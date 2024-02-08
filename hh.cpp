@@ -11,7 +11,7 @@ int main() {
   }
 
   // Menambahkan baris baru
-  std::cout << std::endl
+  std::cout << std::endl;
 
   return 0;
 }
